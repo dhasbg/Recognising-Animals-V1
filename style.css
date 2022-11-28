@@ -1,0 +1,45 @@
+body
+{
+    background-color: grey;
+}
+
+#heading
+{
+   background-color: grey;
+}
+#button_div
+{
+    background-color: grey;
+}
+#start
+{
+    background-color:aquamarine;
+    border-radius: 20%;
+    border-color: black;
+    
+}
+#animals_num
+{
+    background-color:grey;
+    font-family: cursive;
+}
+#animal_result
+{
+    font-family: cursive;
+    background-color: grey;
+}
+#footer
+{
+    font-family: cursive;
+    background-color: white;
+}
+#image
+{
+    background-color: white;    
+}
+#detect
+{
+    background-color:aquamarine;
+    border-radius: 20%;
+    border-color: black;
+}
